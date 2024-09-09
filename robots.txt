@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://orsaniqui.github.io/sitemap.html.gz
+Sitemap: https://orsaniqui.github.io/app/sitemap.html.gz
+Sitemap: https://orsaniqui.github.io/assets/sitemap.html.gz
+Sitemap: https://orsaniqui.github.io/css/sitemap.html.gz
+Sitemap: https://orsaniqui.github.io/includes/sitemap.html.gz
+Sitemap: https://orsaniqui.github.io/item/sitemap.html.gz
+Sitemap: https://orsaniqui.github.io/src/sitemap.html.gz
